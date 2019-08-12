@@ -1,0 +1,691 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/mrc/Documents/test-kerja/react-webpack-3-boilerplate
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/components/Navbar/NavBar.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/components/js/toggleButton.js
+> git ls-files --stage -- src/components/js/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/About/About.js
+> git show :src/components/Navbar/NavBar.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Navbar/NavBar.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Home.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Pages/About/About.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Navbar/NavBar.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Pages/Home/Home.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Pages/About/About.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Routes/Routes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/components/Navbar/NavBar.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Routes/Routes.js
+> git show :dist/index.html
+> git check-ignore -v -z --stdin
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/About/About.js
+> git show :src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git show :src/Pages/About/About.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Routes/Routes.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git show :src/components/Navbar/navBar.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/components/Navbar/NavBar.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/components/Navbar/navBar.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Pages/Home/Home.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Home.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Pages/About/About.js
+> git show :src/Pages/Home/home.css
+> git ls-files --stage -- src/Pages/Home/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/Pages/Home/Home.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/home.css
+> git ls-files --stage -- src/Pages/Home/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.

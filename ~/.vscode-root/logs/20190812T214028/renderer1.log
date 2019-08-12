@@ -1,0 +1,6 @@
+[2019-08-12 21:40:30.787] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.vscode'
+[2019-08-12 21:40:30.788] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.vscode'
+[2019-08-12 21:41:31.981] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/mrc/Documents/test-kerja/giftano-test/.vscode'
+[2019-08-12 21:41:31.982] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/mrc/Documents/test-kerja/giftano-test/.vscode'
+[2019-08-12 21:51:14.879] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-12 21:51:14.894] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)

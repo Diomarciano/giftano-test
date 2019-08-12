@@ -1,0 +1,170 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/mrc/Documents/test-kerja/react-webpack-3-boilerplate
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git show :dist/bundle.css
+> git ls-files --stage -- dist/
+> git show :dist/bundle.css.map
+> git ls-files --stage -- dist/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :dist/bundle.js
+> git ls-files --stage -- dist/
+> git show :dist/bundle.js.map
+> git ls-files --stage -- dist/
+> git show :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/components/Button/button.css
+> git show :src/components/Button/Button.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :package.json
+> git show :src/components/Button/Button.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :node_modules/bootstrap/dist/css/bootstrap.css
+> git ls-files --stage -- node_modules/bootstrap/dist/css/
+> git show :node_modules/bootstrap/dist/css/bootstrap.min.css
+> git ls-files --stage -- node_modules/bootstrap/dist/css/
+> git show :node_modules/bootstrap/dist/css/bootstrap.css
+> git ls-files --stage -- node_modules/bootstrap/dist/css/
+> git show :src/components/Button/Button.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/components/Navbar/navBar.css
+> git show :src/components/Navbar/NavBar.js
+> git show :src/index.js
+> git show :README.md
+> git show :src/index.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Button/Button.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/Pages/About/About.js
+> git show :src/index.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :package.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/Routes/Routes.js
+> git show :src/index.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/About/About.js
+> git show :src/Routes/Routes.js
+> git check-ignore -v -z --stdin
+> git show :dist/index.html
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/About/About.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/About/About.js
+> git show :src/components/Button/button.css
+> git show :src/components/Button/Button.js
+> git show :src/Pages/About/About.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Button/Button.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/About/About.js
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/About/About.js
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/index.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/About/About.js
+> git show :dist/index.html
+> git show :dist/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/Pages/Home/Home.js
+> git show :dist/index.html
+> git show :src/components/Navbar/NavBar.js
+> git show :dist/bundle.css
+> git ls-files --stage -- dist/
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Navbar/navBar.css
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/About/About.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/About/About.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/About/About.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/About/About.js
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/About/About.js
+> git show :src/Routes/Routes.js
+> git show :src/components/Navbar/NavBar.js

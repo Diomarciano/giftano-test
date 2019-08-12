@@ -1,0 +1,133 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/mrc/Documents/test-kerja/giftano-test
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/giftano-test/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/giftano-test/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/giftano-test/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/giftano-test/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :dist/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/giftano-test/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/giftano-test/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :webpack.config.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/giftano-test/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/giftano-test/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :dist/bundle.css
+> git ls-files --stage -- dist/
+> git show :dist/bundle.css.map
+> git ls-files --stage -- dist/
+> git show :dist/bundle.js.map
+> git ls-files --stage -- dist/
+> git show :dist/index.html
+> git show :dist/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/giftano-test/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git show :webpack.config.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :dist/index.html
+> git check-ignore -v -z --stdin
+> git show :dist/index.html
+> git show :dist/index.html
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :dist/index.html
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :dist/index.html
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/index.js
+> git show :package.json
+> git show :package-lock.json
+> git ls-files --stage -- ./
+> git show :jest.config.json
+> git show :package.json
+> git show :README.md
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

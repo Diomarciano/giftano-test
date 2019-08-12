@@ -1,0 +1,2 @@
+[2019-08-12 21:21:08.787] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.vscode'
+[2019-08-12 21:21:08.788] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.vscode'

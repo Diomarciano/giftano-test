@@ -1,0 +1,358 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/mrc/Documents/test-kerja/react-webpack-3-boilerplate
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git show :src/Pages/Home/Home.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.git/refs/remotes/origin/master'. Ref is most likely packed.
+> git check-ignore -v -z --stdin
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git check-ignore -v -z --stdin
+> git show :package.json
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/home.css
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Home.js
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Result.js
+> git ls-files --stage -- src/Pages/Home/
+> git check-ignore -v -z --stdin
+> git show :src/Pages/Home/Saved.js
+> git ls-files --stage -- src/Pages/Home/
+> git check-ignore -v -z --stdin
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git check-ignore -v -z --stdin
+> git show :src/Pages/Home/Result.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Saved.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Result.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git check-ignore -v -z --stdin
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Saved.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :package.json
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Saved.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git check-ignore -v -z --stdin
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Saved.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Saved.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git check-ignore -v -z --stdin
+> git show :src/Routes/Routes.js
+> git show :src/Pages/Home/Home.js
+> git show :src/index.js
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/home.css
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/home.css
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/index.js
+> git show :src/Pages/Home/home.css
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Routes/Routes.js
+> git show :src/Pages/Home/Saved.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Saved.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Routes/Routes.js
+> git show :src/Pages/Home/Saved.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Routes/Routes.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Saved.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Routes/Routes.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Routes/Routes.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Routes/Routes.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Home.js
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Routes/Routes.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Home.js
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/home.css
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/components/Button/Button.js
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git check-ignore -v -z --stdin
+> git show :src/components/Footer/footer.css
+> git ls-files --stage -- src/components/Footer/
+> git check-ignore -v -z --stdin
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/Pages/Home/home.css
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Footer/footer.css
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Routes/Routes.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/home.css
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Routes/Routes.js
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/components/Footer/footer.css
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Footer/footer.css
+> git ls-files --stage -- src/components/Footer/
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Navbar/NavBar.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/components/Footer/footer.js
+> git ls-files --stage -- src/components/Footer/
+> git show :src/components/Navbar/NavBar.js
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Results.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/home.css
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/Pages/Home/Home.js
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Home.js
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Home.js
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Home.js
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/index.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :dist/index.html
+> git show :.gitignore
+> git show :package.json
+> git show :src/Pages/Home/Search.js
+> git ls-files --stage -- src/Pages/Home/
+> git show :src/utils/api.js
+> git ls-files --stage -- src/utils/
+> git show :src/Pages/Home/Home.js

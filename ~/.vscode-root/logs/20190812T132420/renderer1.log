@@ -1,0 +1,6 @@
+[2019-08-12 13:24:25.758] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.vscode'
+[2019-08-12 13:24:25.759] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/mrc/Documents/test-kerja/react-webpack-3-boilerplate/.vscode'
+[2019-08-12 13:28:54.149] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-12 13:28:54.161] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-12 15:53:20.663] [renderer1] [error] Error: [File Watcher (node.js)] Failed to watch /home/mrc/.cache/typescript/3.5/node_modules/@types/react-datepicker/index.d.ts for changes using fs.watch() (Error: ENOSPC: no space left on device, watch '/home/mrc/.cache/typescript/3.5/node_modules/@types/react-datepicker/index.d.ts')
+[2019-08-12 15:53:20.695] [renderer1] [error] [File Watcher (node.js)] Failed to watch /home/mrc/.cache/typescript/3.5/node_modules/@types/react-datepicker/index.d.ts for changes using fs.watch() (Error: ENOSPC: no space left on device, watch '/home/mrc/.cache/typescript/3.5/node_modules/@types/react-datepicker/index.d.ts')

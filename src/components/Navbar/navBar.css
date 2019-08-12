@@ -1,5 +1,7 @@
-/*Custom CSS overwriting default imported CSS goes here*/
-
-.topPadding {
-    padding-top: 8px!important;
+.navbar-light {
+  border-top: 2px solid #7a7a7a !important;
+  border-bottom: 2px solid #7a7a7a !important;
+}
+li > a {
+  font-weight: bold;
 }

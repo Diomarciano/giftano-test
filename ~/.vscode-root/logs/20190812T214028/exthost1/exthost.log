@@ -1,0 +1,56 @@
+[2019-08-12 21:40:30.623] [exthost] [info] extension host started
+[2019-08-12 21:40:30.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-08-12 21:40:30.716] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-12 21:40:30.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-08-12 21:40:30.740] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-08-12 21:40:30.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-12 21:40:30.818] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-12 21:40:30.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-12 21:40:30.821] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-12 21:40:30.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-12 21:40:30.945] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-12 21:40:30.956] [exthost] [info] ExtensionService#_doActivateExtension helloCodePublisher.hellocode {"startup":true,"activationEvent":"*"}
+[2019-08-12 21:40:30.956] [exthost] [info] ExtensionService#loadCommonJSModule /home/mrc/.vscode/extensions/hellocodepublisher.hellocode-0.7.0/extension.js
+[2019-08-12 21:40:30.959] [exthost] [info] eager extensions activated
+[2019-08-12 21:40:52.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-08-12 21:40:52.743] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-08-12 21:41:07.059] [exthost] [info] extension host started
+[2019-08-12 21:41:07.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-12 21:41:07.079] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-12 21:41:07.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-12 21:41:07.083] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-12 21:41:07.101] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-12 21:41:07.101] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-12 21:41:07.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-12 21:41:07.208] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-12 21:41:07.213] [exthost] [info] ExtensionService#_doActivateExtension helloCodePublisher.hellocode {"startup":true,"activationEvent":"*"}
+[2019-08-12 21:41:07.213] [exthost] [info] ExtensionService#loadCommonJSModule /home/mrc/.vscode/extensions/hellocodepublisher.hellocode-0.7.0/extension.js
+[2019-08-12 21:41:07.215] [exthost] [info] eager extensions activated
+[2019-08-12 21:41:09.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-12 21:41:09.562] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-08-12 21:41:09.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-12 21:41:09.760] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-08-12 21:41:09.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-12 21:41:09.911] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-08-12 21:42:13.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-08-12 21:42:13.057] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-08-12 21:48:14.991] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-08-12 21:48:14.991] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-08-12 21:49:02.361] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-08-12 21:49:02.361] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-08-12 21:49:04.387] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-08-12 21:49:04.387] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-08-12 21:58:55.756] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-12 21:58:55.758] [exthost] [error] Error: DisposableStore is missing...
+	at R._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:554:618)
+	at define.resolveCompletionItem.o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:554:248)
+[2019-08-12 22:02:25.287] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-12 22:02:25.287] [exthost] [error] Error: DisposableStore is missing...
+	at R._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:554:618)
+	at define.resolveCompletionItem.o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:554:248)
+[2019-08-12 22:03:05.770] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-08-12 22:03:05.770] [exthost] [error] Error: DisposableStore is missing...
+	at R._convertCompletionItem (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:554:618)
+	at define.resolveCompletionItem.o.asPromise.then.e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:554:248)
+[2019-08-12 22:33:12.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-08-12 22:33:12.632] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
